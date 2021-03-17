@@ -1,0 +1,32 @@
+.front {
+    width: 900px;
+    height: 600px;
+    border: 1px solid gray;
+    border-radius: 100px;
+    background-color: brown;
+    margin: 0 auto;
+}
+.header {
+    width: 700px;
+    height: 150px;
+    border: 1px solid #000;
+    margin: 30px auto;
+    background-color: yellow;
+}
+.box {
+    display: flex;
+    justify-content: center;
+}
+
+.box2 {
+    width: 500px;
+    height: 350px;
+    border: 1px solid #000;
+    background-color: red;
+}
+.box3 {
+    width: 198px;
+    height: 350px;
+    border: 1px solid #000;
+    background-color: blue;
+}
